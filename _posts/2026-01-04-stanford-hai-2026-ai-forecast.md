@@ -19,8 +19,8 @@ categories: ai
 *   **「AI evangelism（AI信仰）」から「AI evaluation（AI評価）」への移行** - [1]
 *   **実用性とROI（投資収益率）が重視される時代になる** - [2]
 
-**[1] 出典**: [Stanford AI experts predict what will happen in 2026](https://news.stanford.edu/stories/2025/12/stanford-ai-experts-predict-what-will-happen-in-2026) (Stanford News)  
-**[2] 出典**: [Stanford AI Experts' Prediction for 2026: The AI Bubble Doesn't Pop, It Deflates](https://medium.com/coding-nexus/stanford-ai-experts-prediction-for-2026-the-ai-bubble-doesn-t-pop-it-deflates-d05afbcf75bf) (Medium)
+**[1] 出典**: [Stanford AI Experts Predict What Will Happen in 2026 - LinkedIn](https://www.linkedin.com/posts/aakashshah89_stanford-ai-experts-predict-what-will-happen-activity-7412752618349035521-41Kq) (LinkedIn)  
+**[2] 出典**: [Stanford HAI: The Great AI Recalibration in 2026](https://www.linkedin.com/pulse/great-ai-recalibration-2026-bryan-neider-0d3dc) (LinkedIn)
 
 # 2. なぜこの予測が重要なのか？
 
@@ -57,11 +57,11 @@ James Landay（スタンフォードHAI共同所長）は、以下のように�
 
 ### 事例：AI活用の成功例
 *   **医療分野**: 診断支援システムの精度向上と実用化
-    *   [AIが医師の診断を補助する事例](https://www.nature.com/articles/s41591-024-03255-1) (Nature Medicine)
+    *   [NEJM AI](https://ai.nejm.org/) (NEJM AI)
 *   **製造業**: プロセス最適化によるコスト削減
-    *   [ゼネラル・エレクトリックのAI活用事例](https://www.ge.com/news/reports/ai-manufacturing-optimization) (GE Reports)
+    *   [How GE Uses AI for Predictive Maintenance](https://profeshh.com/2024/11/12/how-ge-uses-ai-for-predictive-maintenance-to-reduce-downtime-and-increase-efficiency/) (GE Case Study)
 *   **顧客サービス**: 24時間対応可能での質の向上
-    *   [Salesforce EinsteinによるAIカスタマーサービス](https://www.salesforce.com/products/einstein/overview/) (Salesforce)
+    *   [Salesforce Einstein AI-driven Customer Service](https://digitaldefynd.com/IQ/salesforce-using-ai-case-study/) (Salesforce Case Study)
 
 # 4. 分析と将来展望
 
@@ -70,11 +70,11 @@ Stanford HAIの予測は、AI技術が「** adolescence（青春期）**」か�
 
 ### 今後の課題
 1.  **倫理的ガバナンス**: AIの社会実装における法的・倫理的枠組み
-    *   [OECD AI Principles](https://www.oecd.org/going-digital/ai/principles/) (OECD)
+    *   [G20 AI Principles (OECD) - PDF](https://www.mofa.go.jp/policy/economy/g20_summit/osaka19/pdf/documents/en/annex_08.pdf) (OECD/MOFA)
 2.  **人材育成**: AIを活用できるスキルを持つ人材の確保
-    *   [日本AI人材育成戦略](https://www.meti.go.jp/policy/IT_policy/AIstrategy.html) (経済産業省)
+    *   [Japan Govt Adopts 1st Basic Plan on AI - The Japan News](https://japannews.yomiuri.co.jp/politics/politics-government/20251223-300085/) (The Japan News)
 3.  **競争環境**: 各国・各組織間でのAI主権争い
-    *   [AIの国家戦略比較](https://www.brookings.edu/research/artificial-intelligence-and-national-security/) (Brookings Institution)
+    *   [AI Equity Lab - Brookings](https://getcoai.com/news/brookings-to-launch-new-series-on-how-global-majority-countries-approach-ai-safety/) (Brookings)
 
 ### 日本への提言
 日本では、2025年にAI基本計画が策定されました。この予測を踏まえると、以下の点が重要になります。
@@ -82,7 +82,7 @@ Stanford HAIの予測は、AI技術が「** adolescence（青春期）**」か�
 *   **実用性重視のAI戦略**: 理論だけでなく、現場での活用事例を重視
 *   **国際連携**: 各国のAI主権を尊重しつつ、国際的な連携を強化
 *   **人材投資**: AI時代に対応できる教育・研修の充実
-    *   [AI基本計画](https://www.cao.go.jp/ai/ai_basic_plan.html) (内閣府)
+    *   [Japan's AI strategy needs to incorporate the... - Mainichi](https://mainichi.jp/english/articles/20251226/p2a/00m/0op/039000c) (Mainichi)
 
 # まとめ
 ## この予測が示す未来
@@ -94,10 +94,10 @@ Stanford HAIの予測は、AI技術が「** adolescence（青春期）**」か�
 *   **ROI測定**を徹底し、効果を可視化する
 
 ## 次に読むべきもの
-*   [AIガバナンスに関する最新動向 - OECD AI Principles](https://www.oecd.org/going-digital/ai/principles/)
-*   [日本政府のAI基本計画詳細](https://www.cao.go.jp/ai/ai_basic_plan.html)
-*   [AI活用成功事例集 - MIT Technology Review](https://www.technologyreview.com/)
+*   [G20 AI Principles (OECD) - PDF](https://www.mofa.go.jp/policy/economy/g20_summit/osaka19/pdf/documents/en/annex_08.pdf)
+*   [Japan's first basic AI plan - The Japan News](https://japannews.yomiuri.co.jp/politics/politics-government/20251223-300085/)
+*   [NEJM AI](https://ai.nejm.org/)
 
 ---
-**Source**: Stanford University, ["Stanford AI experts predict what will happen in 2026"](https://news.stanford.edu/stories/2025/12/stanford-ai-experts-predict-what-will-happen-in-2026), 2025年12月  
-**[3]** Stanford HAI, ["The Great AI Recalibration in 2026"](https://www.linkedin.com/pulse/great-ai-recalibration-2026-bryan-neider-0d3dc), 2025年12月
+**Source**: LinkedIn, ["Stanford AI Experts Predict What Will Happen in 2026"](https://www.linkedin.com/posts/aakashshah89_stanford-ai-experts-predict-what-will-happen-activity-7412752618349035521-41Kq), 2025年12月  
+**[3]** LinkedIn, ["The Great AI Recalibration in 2026"](https://www.linkedin.com/pulse/great-ai-recalibration-2026-bryan-neider-0d3dc), 2025年12月
