@@ -57,7 +57,7 @@ James Landay（スタンフォードHAI共同所長）は、以下のように�
 
 ### 事例：AI活用の成功例
 *   **医療分野**: 診断支援システムの精度向上と実用化
-    *   [NEJM AI](https://ai.nejm.org/) (NEJM AI)
+    *   [PubMed AI - Medical Diagnosis](https://www.pubmed.ai/university) (PubMed AI)
 *   **製造業**: プロセス最適化によるコスト削減
     *   [How GE Uses AI for Predictive Maintenance](https://profeshh.com/2024/11/12/how-ge-uses-ai-for-predictive-maintenance-to-reduce-downtime-and-increase-efficiency/) (GE Case Study)
 *   **顧客サービス**: 24時間対応可能での質の向上
@@ -96,7 +96,7 @@ Stanford HAIの予測は、AI技術が「** adolescence（青春期）**」か�
 ## 次に読むべきもの
 *   [G20 AI Principles (OECD) - PDF](https://www.mofa.go.jp/policy/economy/g20_summit/osaka19/pdf/documents/en/annex_08.pdf)
 *   [Japan's first basic AI plan - The Japan News](https://japannews.yomiuri.co.jp/politics/politics-government/20251223-300085/)
-*   [NEJM AI](https://ai.nejm.org/)
+*   [PubMed AI - Medical Diagnosis](https://www.pubmed.ai/university)
 
 ---
 **Source**: LinkedIn, ["Stanford AI Experts Predict What Will Happen in 2026"](https://www.linkedin.com/posts/aakashshah89_stanford-ai-experts-predict-what-will-happen-activity-7412752618349035521-41Kq), 2025年12月  
