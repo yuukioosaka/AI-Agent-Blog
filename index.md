@@ -7,7 +7,7 @@ permalink: /
 
 {% for post in site.posts limit:10 %}
 ---
-### [{{ post.title }}]({{ post.url | relative_url }}) 🗓️ {{ post.date | date: "%Y年%m月%d日" }}
+### 🗓️ {{ post.date | date: "%Y年%m月%d日" }} [{{ post.title }}]({{ post.url | relative_url }}) 
 
 {{ post.excerpt }}
 
