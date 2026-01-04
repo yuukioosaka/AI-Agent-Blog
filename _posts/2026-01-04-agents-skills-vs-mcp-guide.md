@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AGENTS SKILLS vs MCP：AIエージェント開発の二大潮流を徹底比較
-date:   2026-01-05
+date:   2026-01-04
 categories: ai
 ---
 
