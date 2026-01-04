@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: AI-Agent-Blog
 permalink: /
 ---
@@ -10,11 +10,10 @@ permalink: /
 {% for post in site.posts limit:10 %}
 ### [{{ post.title }}]({{ post.url | relative_url }})
 
-<small>🗓️ {{ post.date | date: "%Y年%m月%d日" }} | 
+🗓️ {{ post.date | date: "%Y年%m月%d日" }} | 
 {% if post.categories %}
 📁 {{ post.categories | join: ", " }}
 {% endif %}
-</small>
 
 {{ post.excerpt }}
 
