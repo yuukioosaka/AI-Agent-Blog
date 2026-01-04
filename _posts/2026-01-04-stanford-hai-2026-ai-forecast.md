@@ -1,7 +1,7 @@
 ---
 layout: post
 title: スタンフォードHAIが示す2026年AI予測：AGIは来ず、バブルは持続しない
-date:   2026-01-05
+date:   2026-01-04
 categories: ai
 ---
 
