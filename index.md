@@ -11,9 +11,6 @@ permalink: /
 ### [{{ post.title }}]({{ post.url | relative_url }})
 
 🗓️ {{ post.date | date: "%Y年%m月%d日" }} | 
-{% if post.categories %}
-📁 {{ post.categories | join: ", " }}
-{% endif %}
 
 {{ post.excerpt }}
 
