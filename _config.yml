@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+
+# ページネーション
+paginate: 10
+paginate_path: "/page:num/"
