@@ -4,3 +4,8 @@ markdown: GFM
 # ページネーション
 paginate: 10
 paginate_path: "/page:num/"
+
+google_analytics : G-9BZYBHTTD6
+
+minima:
+  hide_site_feed_link: true
