@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  「AI氷河期」の到来～2026年、既存の職業は AI に代替される？その実態と対策
-date:   2026-01-10
+date:   2026-01-09
 categories: ai
 ---
 
